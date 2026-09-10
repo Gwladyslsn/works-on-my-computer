@@ -9,14 +9,16 @@ window.WOMM_MESSAGES = {
     "Production appears to have developed free will.",
     "Interesting. I've never seen it do that before.",
     "Please don't touch anything. It is somehow working.",
-    "The bug cannot be reproduced now that someone important is watching."
+    "The bug cannot be reproduced now that someone important is watching.", 
+    "It work yesterday"
   ],
   solutions: [
     "Restart exactly one thing and look confident.",
     "Read the error message, then pretend that was always the plan.",
     "Check the file path before blaming the network.",
     "Compare staging and production. Then sigh professionally.",
-    "Rollback first, investigate second, explain calmly third."
+    "Rollback first, investigate second, explain calmly third.",
+    "Restart and screen step by step"
   ],
   panic: [
     "Incident mode: make tea, open logs, stop guessing.",
