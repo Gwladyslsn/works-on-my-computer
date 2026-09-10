@@ -1,5 +1,8 @@
 # Works On My Machine™
 
+**Projet d'étude chez Ekod, fourni par Laura Moreau**
+Modification faites par Gwladys dans le cadre de la formation CDA - M10. 
+
 **The Developer Excuse Generator** is a deliberately small static website used for the CDA-M10 deployment workshop.
 
 Release: **v1.0.0 — Stable-ish**
