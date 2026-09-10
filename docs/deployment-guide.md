@@ -40,14 +40,14 @@ Which files or configuration values matter for this deployment?
 
 Record the real procedure in the order you performed it.
 
-| Step | Action | Expected result | Actual result / evidence |
-| 1	| Push or fork the project in GitHub | The project is available in a GitHub repository |Project successfully pushed/forked to GitHub
-| 2	|Open the repository settings and configure GitHub Pages|	GitHub Pages deployment settings are available |	GitHub Pages configured for the project
-| 3	|Select the branch and folder used for the deployment	GitHub Pages knows which project files to deploy	|The correct branch/folder was selected
-| 4	|Wait for the GitHub Pages deployment to complete	The deployment status becomes successful |Deployment completed successfully
-| 5	|Open the generated GitHub Pages URL	| The deployed website is accessible online	https://gwladyslsn.github.io/works-on-my-computer/
-| 6	|Test the deployed application in the browser |	The application loads and its main functionality works | Website loads correctly and the button functionality works
-| 7	|Perform the post-deployment checks |	All required checks pass |	All verification checks passed; release considered successful
+| Step | Action | Expected result | Actual result / evidence | 
+| 1	| Push or fork the project in GitHub | The project is available in a GitHub repository |Project successfully pushed/forked to GitHub 
+| 2	|Open the repository settings and configure GitHub Pages|	GitHub Pages deployment settings are available |	GitHub Pages configured for the project  
+| 3	|Select the branch and folder used for the deployment	GitHub Pages knows which project files to deploy	|The correct branch/folder was selected  
+| 4	|Wait for the GitHub Pages deployment to complete	The deployment status becomes successful |Deployment completed successfully  
+| 5	|Open the generated GitHub Pages URL	| The deployed website is accessible online	https://gwladyslsn.github.io/works-on-my-computer/  
+| 6	|Test the deployed application in the browser |	The application loads and its main functionality works | Website loads correctly and the button functionality works  
+| 7	|Perform the post-deployment checks |	All required checks pass |	All verification checks passed; release considered successful  
 
 
 ## 6. Post-deployment verification
