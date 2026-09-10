@@ -4,17 +4,17 @@
 
 ## Release identity
 
-- [ ] 
+- [V1.0.0 ] 
 - [ ] 
 
 ## Target environment
 
-- [ ] 
+- [Production - GitHub Pages] 
 - [ ] 
 
 ## Access and prerequisites
 
-- [ ] 
+- [GitHub] 
 - [ ] 
 - [ ] 
 
