@@ -19,7 +19,7 @@ function loadStatus() {
   setText("version", config.version || "0.0.0");
   setText("confidence", config.developerConfidence || "Not measured");
   setText("statusText", config.statusText || "Waiting for coffee.");
-  setText("contact", config.statusText || "Contact");
+  setText("contact", config.contact || "Contact");
 }
 
 document.addEventListener("DOMContentLoaded", function () {
