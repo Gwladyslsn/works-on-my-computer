@@ -30,9 +30,9 @@ What must already be available, configured or confirmed before deployment can be
 
 Which files or configuration values matter for this deployment?
 
-| Item | Purpose | What must be checked? |
-| 1 | deploy.yml | Rights |
-| 2 | readme.md | explanation, deployment support |
+| Item | Purpose | What must be checked? 
+| 1 | deploy.yml | Rights |  
+| 2 | readme.md | explanation, deployment support |  
 |  |  |  |
 |  |  |  |
 
@@ -40,7 +40,7 @@ Which files or configuration values matter for this deployment?
 
 Record the real procedure in the order you performed it.
 
-| Step | Action | Expected result | Actual result / evidence | 
+| Step | Action | Expected result | Actual result / evidence   
 | 1	| Push or fork the project in GitHub | The project is available in a GitHub repository |Project successfully pushed/forked to GitHub 
 | 2	|Open the repository settings and configure GitHub Pages|	GitHub Pages deployment settings are available |	GitHub Pages configured for the project  
 | 3	|Select the branch and folder used for the deployment	GitHub Pages knows which project files to deploy	|The correct branch/folder was selected  
@@ -55,10 +55,10 @@ Record the real procedure in the order you performed it.
 What must be checked after deployment before you can call the release successful?
 
 | Check | Expected result | Actual result | Pass / fail |
-| --- | --- | --- | --- |
-| Button | changes the explanation depending on the button clicked | -  | Pass |
-| Page loading | The application loads successfully without errors | 	Application loads successfully | Pass |
-| Display | Text, buttons and other UI elements are displayed correctly | All elements are displayed correctly | Pass |
+| --- | --- | --- | --- |  
+| Button | changes the explanation depending on the button clicked | -  | Pass |  
+| Page loading | The application loads successfully without errors | 	Application loads successfully | Pass |  
+| Display | Text, buttons and other UI elements are displayed correctly | All elements are displayed correctly | Pass |  
 
 
 ## 7. Evidence
