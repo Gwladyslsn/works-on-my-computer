@@ -13,6 +13,18 @@ function showMessage(kind) {
   setText("message", pickRandom(list));
 }
 
+function copyMessage(){
+  var messageElement = document.getElementById("message");
+  if (messageElement) {
+    var text = messageElement.textContent;
+    navigator.clipboard.writeText(text).then(function() {
+      alert("Message copied to clipboard!");
+    }, function(err) {
+      console.error("Could not copy text: ", err);
+    });
+  }
+}
+
 function loadStatus() {
   var config = window.WOMM_CONFIG || {};
   setText("environment", config.environment || "UNKNOWN");
